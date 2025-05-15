@@ -1,3 +1,3 @@
 # TestAuraWizard
 
-# Using GPT 3.0
+# Using GPT 4.1
